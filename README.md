@@ -6,7 +6,7 @@ This is my first part of my Read Me and I have a start to my portfolio. This pro
 
 ## Screenshot 
 
-
+![Screenshot](../Kendra-Portfolio-Start/images/Screenshot%202022-11-21%20204959.png)
 
 
 
