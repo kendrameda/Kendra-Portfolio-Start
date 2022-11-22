@@ -11,3 +11,4 @@ This is my first part of my Read Me and I have a start to my portfolio. This pro
 
 
 ## Link to deployed page
+https://kendrameda.github.io/Kendra-Portfolio-Start/
